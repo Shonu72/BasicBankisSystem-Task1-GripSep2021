@@ -35,6 +35,13 @@
                 <br>
                 <a href="users.php"><button type="button" class="btn btn-outline-primary">Create Users</button></a>
               </div>
+              
+               <div class="col-md act">
+                <img src="img/AllUsers.jpg" class="img-fluid">
+                <br>
+                <a href="users.php"><button type="button" class="btn btn-outline-primary">All Users</button></a>
+              </div>
+              
               <div class="col-md act">
                 <img src="img/transfer.png" class="img-fluid">
                 <br>
